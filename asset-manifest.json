@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Curieux-Website/static/css/main.6ed1c4e7.chunk.css",
-    "main.js": "/Curieux-Website/static/js/main.9635a735.chunk.js",
-    "main.js.map": "/Curieux-Website/static/js/main.9635a735.chunk.js.map",
+    "main.css": "/Curieux-Website/static/css/main.b969684f.chunk.css",
+    "main.js": "/Curieux-Website/static/js/main.0d284819.chunk.js",
+    "main.js.map": "/Curieux-Website/static/js/main.0d284819.chunk.js.map",
     "runtime-main.js": "/Curieux-Website/static/js/runtime-main.ac112135.js",
     "runtime-main.js.map": "/Curieux-Website/static/js/runtime-main.ac112135.js.map",
-    "static/js/2.5a0685dd.chunk.js": "/Curieux-Website/static/js/2.5a0685dd.chunk.js",
-    "static/js/2.5a0685dd.chunk.js.map": "/Curieux-Website/static/js/2.5a0685dd.chunk.js.map",
+    "static/js/2.092f5d0a.chunk.js": "/Curieux-Website/static/js/2.092f5d0a.chunk.js",
+    "static/js/2.092f5d0a.chunk.js.map": "/Curieux-Website/static/js/2.092f5d0a.chunk.js.map",
     "index.html": "/Curieux-Website/index.html",
-    "static/css/main.6ed1c4e7.chunk.css.map": "/Curieux-Website/static/css/main.6ed1c4e7.chunk.css.map",
-    "static/js/2.5a0685dd.chunk.js.LICENSE.txt": "/Curieux-Website/static/js/2.5a0685dd.chunk.js.LICENSE.txt",
+    "static/css/main.b969684f.chunk.css.map": "/Curieux-Website/static/css/main.b969684f.chunk.css.map",
+    "static/js/2.092f5d0a.chunk.js.LICENSE.txt": "/Curieux-Website/static/js/2.092f5d0a.chunk.js.LICENSE.txt",
     "static/media/RightFrame.module.css": "/Curieux-Website/static/media/HomePageDemoImage.6e5ba244.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ac112135.js",
-    "static/js/2.5a0685dd.chunk.js",
-    "static/css/main.6ed1c4e7.chunk.css",
-    "static/js/main.9635a735.chunk.js"
+    "static/js/2.092f5d0a.chunk.js",
+    "static/css/main.b969684f.chunk.css",
+    "static/js/main.0d284819.chunk.js"
   ]
 }
